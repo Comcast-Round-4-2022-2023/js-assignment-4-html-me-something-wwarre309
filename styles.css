@@ -1,1 +1,48 @@
 /* Write your CSS here! */
+body {
+    margin-top: 8px
+}
+
+#cardi {
+    color: pink
+}
+
+#jayz {
+    color: blue
+}
+
+#travis {
+    color: red
+}
+
+body {
+
+ 
+
+    background-color: white;
+  
+   
+  
+    background-color: rgba(0, 0, 0, .25);
+  
+    
+  
+    color: white;
+  
+    
+  
+    padding: 200px;
+  
+    
+  
+    background: url(https://drive.google.com/uc?export=view&id=1mAPR9TEvPO2BHb08oGRnjzv0KVxsjXOX);
+  
+    
+  
+    }
+
+    img {
+        height: 100px;
+        width: 150px;
+    }
+    
