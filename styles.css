@@ -1,19 +1,17 @@
 /* Write your CSS here! */
 body {
-    margin-top: 8px
+    margin: 8px;
 }
 
-#cardi {
-    color: pink
-}
 
-#jayz {
-    color: blue
-}
-
-#travis {
+#mainHeading {
     color: red
 }
+
+.funParagraph {
+    color: green
+}
+
 
 body {
 
@@ -27,15 +25,11 @@ body {
   
     
   
-    color: white;
-  
-    
-  
     padding: 200px;
   
     
   
-    background: url(https://drive.google.com/uc?export=view&id=1mAPR9TEvPO2BHb08oGRnjzv0KVxsjXOX);
+    background: url(https://drive.google.com/uc?export=view&id=1dYxWX_686gxLki9S4ukWA8nWibaOYxf0);
   
     
   
